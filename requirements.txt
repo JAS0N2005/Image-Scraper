@@ -1,0 +1,6 @@
+pandas
+aiohttp
+beautifulsoup4
+pillow
+openpyxl
+selenium

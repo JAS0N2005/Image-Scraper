@@ -1,0 +1,1067 @@
+[
+  {
+    "row": 866,
+    "successes": 6,
+    "failures": 12
+  },
+  {
+    "row": 867,
+    "successes": 3,
+    "failures": 8
+  },
+  {
+    "row": 868,
+    "successes": 7,
+    "failures": 180
+  },
+  {
+    "row": 869,
+    "successes": 10,
+    "failures": 10
+  },
+  {
+    "row": 870,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 871,
+    "successes": 5,
+    "failures": 80
+  },
+  {
+    "row": 872,
+    "successes": 0,
+    "failures": 36
+  },
+  {
+    "row": 873,
+    "successes": 10,
+    "failures": 15
+  },
+  {
+    "row": 874,
+    "successes": 9,
+    "failures": 4
+  },
+  {
+    "row": 875,
+    "successes": 10,
+    "failures": 148
+  },
+  {
+    "row": 876,
+    "successes": 1,
+    "failures": 36
+  },
+  {
+    "row": 877,
+    "successes": 10,
+    "failures": 3
+  },
+  {
+    "row": 878,
+    "successes": 6,
+    "failures": 8
+  },
+  {
+    "row": 879,
+    "successes": 7,
+    "failures": 4
+  },
+  {
+    "row": 880,
+    "successes": 7,
+    "failures": 252
+  },
+  {
+    "row": 881,
+    "successes": 1,
+    "failures": 36
+  },
+  {
+    "row": 882,
+    "successes": 11,
+    "failures": 46
+  },
+  {
+    "row": 883,
+    "successes": 10,
+    "failures": 2
+  },
+  {
+    "row": 884,
+    "successes": 8,
+    "failures": 48
+  },
+  {
+    "row": 885,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 886,
+    "successes": 5,
+    "failures": 48
+  },
+  {
+    "row": 887,
+    "successes": 2,
+    "failures": 0
+  },
+  {
+    "row": 888,
+    "successes": 10,
+    "failures": 29
+  },
+  {
+    "row": 889,
+    "successes": 5,
+    "failures": 0
+  },
+  {
+    "row": 890,
+    "successes": 10,
+    "failures": 60
+  },
+  {
+    "row": 891,
+    "successes": 3,
+    "failures": 116
+  },
+  {
+    "row": 892,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 893,
+    "successes": 10,
+    "failures": 6
+  },
+  {
+    "row": 894,
+    "successes": 10,
+    "failures": 7
+  },
+  {
+    "row": 895,
+    "successes": 10,
+    "failures": 28
+  },
+  {
+    "row": 896,
+    "successes": 3,
+    "failures": 20
+  },
+  {
+    "row": 897,
+    "successes": 6,
+    "failures": 124
+  },
+  {
+    "row": 898,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 899,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 900,
+    "successes": 10,
+    "failures": 55
+  },
+  {
+    "row": 901,
+    "successes": 4,
+    "failures": 40
+  },
+  {
+    "row": 902,
+    "successes": 11,
+    "failures": 1
+  },
+  {
+    "row": 903,
+    "successes": 10,
+    "failures": 11
+  },
+  {
+    "row": 904,
+    "successes": 7,
+    "failures": 8
+  },
+  {
+    "row": 905,
+    "successes": 3,
+    "failures": 4
+  },
+  {
+    "row": 906,
+    "successes": 10,
+    "failures": 8
+  },
+  {
+    "row": 907,
+    "successes": 6,
+    "failures": 4
+  },
+  {
+    "row": 908,
+    "successes": 6,
+    "failures": 12
+  },
+  {
+    "row": 909,
+    "successes": 6,
+    "failures": 8
+  },
+  {
+    "row": 910,
+    "successes": 14,
+    "failures": 4
+  },
+  {
+    "row": 911,
+    "successes": 9,
+    "failures": 4
+  },
+  {
+    "row": 912,
+    "successes": 10,
+    "failures": 29
+  },
+  {
+    "row": 913,
+    "successes": 10,
+    "failures": 7
+  },
+  {
+    "row": 914,
+    "successes": 7,
+    "failures": 28
+  },
+  {
+    "row": 915,
+    "successes": 1,
+    "failures": 120
+  },
+  {
+    "row": 916,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 917,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 918,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 919,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 920,
+    "successes": 10,
+    "failures": 30
+  },
+  {
+    "row": 921,
+    "successes": 3,
+    "failures": 64
+  },
+  {
+    "row": 922,
+    "successes": 10,
+    "failures": 6
+  },
+  {
+    "row": 923,
+    "successes": 11,
+    "failures": 0
+  },
+  {
+    "row": 924,
+    "successes": 3,
+    "failures": 28
+  },
+  {
+    "row": 925,
+    "successes": 4,
+    "failures": 8
+  },
+  {
+    "row": 926,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 927,
+    "successes": 10,
+    "failures": 2
+  },
+  {
+    "row": 928,
+    "successes": 4,
+    "failures": 44
+  },
+  {
+    "row": 929,
+    "successes": 5,
+    "failures": 8
+  },
+  {
+    "row": 930,
+    "successes": 7,
+    "failures": 8
+  },
+  {
+    "row": 931,
+    "successes": 10,
+    "failures": 1
+  },
+  {
+    "row": 932,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 933,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 934,
+    "successes": 2,
+    "failures": 8
+  },
+  {
+    "row": 935,
+    "successes": 10,
+    "failures": 29
+  },
+  {
+    "row": 936,
+    "successes": 3,
+    "failures": 40
+  },
+  {
+    "row": 937,
+    "successes": 3,
+    "failures": 0
+  },
+  {
+    "row": 938,
+    "successes": 8,
+    "failures": 72
+  },
+  {
+    "row": 939,
+    "successes": 10,
+    "failures": 89
+  },
+  {
+    "row": 940,
+    "successes": 0,
+    "failures": 8
+  },
+  {
+    "row": 941,
+    "successes": 11,
+    "failures": 6
+  },
+  {
+    "row": 942,
+    "successes": 1,
+    "failures": 188
+  },
+  {
+    "row": 943,
+    "successes": 4,
+    "failures": 52
+  },
+  {
+    "row": 944,
+    "successes": 10,
+    "failures": 24
+  },
+  {
+    "row": 945,
+    "successes": 1,
+    "failures": 24
+  },
+  {
+    "row": 946,
+    "successes": 7,
+    "failures": 76
+  },
+  {
+    "row": 947,
+    "successes": 10,
+    "failures": 0
+  },
+  {
+    "row": 948,
+    "successes": 9,
+    "failures": 12
+  },
+  {
+    "row": 949,
+    "successes": 2,
+    "failures": 44
+  },
+  {
+    "row": 950,
+    "successes": 10,
+    "failures": 23
+  },
+  {
+    "row": 951,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 952,
+    "successes": 6,
+    "failures": 8
+  },
+  {
+    "row": 953,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 954,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 955,
+    "successes": 1,
+    "failures": 0
+  },
+  {
+    "row": 956,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 957,
+    "successes": 4,
+    "failures": 28
+  },
+  {
+    "row": 958,
+    "successes": 10,
+    "failures": 118
+  },
+  {
+    "row": 959,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 960,
+    "successes": 1,
+    "failures": 72
+  },
+  {
+    "row": 961,
+    "successes": 0,
+    "failures": 8
+  },
+  {
+    "row": 962,
+    "successes": 4,
+    "failures": 0
+  },
+  {
+    "row": 963,
+    "successes": 8,
+    "failures": 48
+  },
+  {
+    "row": 964,
+    "successes": 4,
+    "failures": 0
+  },
+  {
+    "row": 965,
+    "successes": 2,
+    "failures": 48
+  },
+  {
+    "row": 966,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 967,
+    "successes": 0,
+    "failures": 8
+  },
+  {
+    "row": 968,
+    "successes": 0,
+    "failures": 32
+  },
+  {
+    "row": 969,
+    "successes": 0,
+    "failures": 8
+  },
+  {
+    "row": 970,
+    "successes": 5,
+    "failures": 0
+  },
+  {
+    "row": 971,
+    "successes": 4,
+    "failures": 28
+  },
+  {
+    "row": 972,
+    "successes": 11,
+    "failures": 0
+  },
+  {
+    "row": 973,
+    "successes": 1,
+    "failures": 12
+  },
+  {
+    "row": 974,
+    "successes": 11,
+    "failures": 6
+  },
+  {
+    "row": 975,
+    "successes": 10,
+    "failures": 13
+  },
+  {
+    "row": 976,
+    "successes": 10,
+    "failures": 0
+  },
+  {
+    "row": 977,
+    "successes": 5,
+    "failures": 8
+  },
+  {
+    "row": 978,
+    "successes": 10,
+    "failures": 0
+  },
+  {
+    "row": 979,
+    "successes": 8,
+    "failures": 4
+  },
+  {
+    "row": 980,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 981,
+    "successes": 9,
+    "failures": 253
+  },
+  {
+    "row": 982,
+    "successes": 0,
+    "failures": 24
+  },
+  {
+    "row": 983,
+    "successes": 2,
+    "failures": 4
+  },
+  {
+    "row": 984,
+    "successes": 8,
+    "failures": 104
+  },
+  {
+    "row": 985,
+    "successes": 7,
+    "failures": 4
+  },
+  {
+    "row": 986,
+    "successes": 10,
+    "failures": 0
+  },
+  {
+    "row": 987,
+    "successes": 10,
+    "failures": 4
+  },
+  {
+    "row": 988,
+    "successes": 0,
+    "failures": 76
+  },
+  {
+    "row": 989,
+    "successes": 9,
+    "failures": 16
+  },
+  {
+    "row": 990,
+    "successes": 7,
+    "failures": 12
+  },
+  {
+    "row": 991,
+    "successes": 4,
+    "failures": 24
+  },
+  {
+    "row": 992,
+    "successes": 4,
+    "failures": 124
+  },
+  {
+    "row": 993,
+    "successes": 1,
+    "failures": 8
+  },
+  {
+    "row": 994,
+    "successes": 10,
+    "failures": 13
+  },
+  {
+    "row": 995,
+    "successes": 10,
+    "failures": 647
+  },
+  {
+    "row": 996,
+    "successes": 6,
+    "failures": 4
+  },
+  {
+    "row": 997,
+    "successes": 4,
+    "failures": 312
+  },
+  {
+    "row": 998,
+    "successes": 12,
+    "failures": 0
+  },
+  {
+    "row": 999,
+    "successes": 1,
+    "failures": 20
+  },
+  {
+    "row": 1000,
+    "successes": 7,
+    "failures": 16
+  },
+  {
+    "row": 1001,
+    "successes": 7,
+    "failures": 14
+  },
+  {
+    "row": 1002,
+    "successes": 8,
+    "failures": 36
+  },
+  {
+    "row": 1003,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1004,
+    "successes": 9,
+    "failures": 56
+  },
+  {
+    "row": 1005,
+    "successes": 10,
+    "failures": 12
+  },
+  {
+    "row": 1006,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 1007,
+    "successes": 6,
+    "failures": 17
+  },
+  {
+    "row": 1008,
+    "successes": 10,
+    "failures": 3
+  },
+  {
+    "row": 1009,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1010,
+    "successes": 0,
+    "failures": 4
+  },
+  {
+    "row": 1011,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1012,
+    "successes": 8,
+    "failures": 8
+  },
+  {
+    "row": 1013,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1014,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1015,
+    "successes": 8,
+    "failures": 12
+  },
+  {
+    "row": 1016,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1017,
+    "successes": 0,
+    "failures": 40
+  },
+  {
+    "row": 1018,
+    "successes": 5,
+    "failures": 8
+  },
+  {
+    "row": 1019,
+    "successes": 0,
+    "failures": 8
+  },
+  {
+    "row": 1020,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1021,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1022,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1023,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1024,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1025,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1026,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1027,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1028,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1029,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1030,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1031,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1032,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1033,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1034,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1035,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1036,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1037,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1038,
+    "successes": 10,
+    "failures": 13
+  },
+  {
+    "row": 1039,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1040,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1041,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1042,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1043,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1044,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1045,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1046,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1047,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1048,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1049,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1050,
+    "successes": 9,
+    "failures": 16
+  },
+  {
+    "row": 1051,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1052,
+    "successes": 10,
+    "failures": 11
+  },
+  {
+    "row": 1053,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1054,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1055,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1056,
+    "successes": 10,
+    "failures": 0
+  },
+  {
+    "row": 1057,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1058,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1059,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1060,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1061,
+    "successes": 2,
+    "failures": 360
+  },
+  {
+    "row": 1062,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1063,
+    "successes": 0,
+    "failures": 60
+  },
+  {
+    "row": 1064,
+    "successes": 7,
+    "failures": 16
+  },
+  {
+    "row": 1065,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1066,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1067,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1068,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1069,
+    "successes": 7,
+    "failures": 12
+  },
+  {
+    "row": 1070,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1071,
+    "successes": 2,
+    "failures": 32
+  },
+  {
+    "row": 1072,
+    "successes": 11,
+    "failures": 4
+  },
+  {
+    "row": 1073,
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "row": 1074,
+    "successes": 1,
+    "failures": 32
+  },
+  {
+    "row": 1075,
+    "successes": 9,
+    "failures": 44
+  },
+  {
+    "row": 1076,
+    "successes": 10,
+    "failures": 3
+  },
+  {
+    "row": 1077,
+    "successes": 11,
+    "failures": 3
+  },
+  {
+    "row": 1078,
+    "successes": 0,
+    "failures": 0
+  }
+]
