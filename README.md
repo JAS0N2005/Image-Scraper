@@ -168,6 +168,12 @@ tensorflow
 
 ---
 
+## Contributing
+
+Yours truly
+Subhojyoti :]
+
+---
 ## 📬 Support
 
 Raise an issue or contact the maintainer for questions, bugs, or feature requests.
