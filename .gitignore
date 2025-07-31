@@ -1,38 +1,77 @@
-# Ignore Python cache files
+# ------------------
+# Python
+# ------------------
 __pycache__/
 *.py[cod]
+*$py.class
+*.so
+*.pyd
 *.pyo
 
-# Ignore virtual environments
-venv/
+# Virtual environments
+.env/
+.venv/
 env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Ignore system files
-.DS_Store
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy, Pyre
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ------------------
+# VS Code
+# ------------------
+.vscode/
+.history/
+
+# ------------------
+# Windows System
+# ------------------
+desktop.ini
 Thumbs.db
 
-# Ignore IDE/editor folders
-.vscode/
-.idea/
-
-# Ignore log files
+# ------------------
+# Logs
+# ------------------
 *.log
 
-# Ignore environment variable files
-.env
+# ------------------
+# IDEs
+# ------------------
+.idea/
+*.sublime-workspace
+*.sublime-project
 
-# Ignore compiled files
-*.so
-*.dll
-
-# Ignore backup files
-*~
-*.bak
-
-# Ignore node_modules if using Node.js
-node_modules/
-
-# Ignore build/ and dist/ folders
-build/
-dist/
-*.egg-info/
+# ------------------
+# Misc
+# ------------------
+*.db
+*.sqlite3
+*.env.local
