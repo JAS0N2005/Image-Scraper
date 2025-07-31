@@ -136,8 +136,9 @@ pillow
 ```
 
 ---
+## Contributing
 
-## 📬 Need Help?
+Yours truly
+Subhojyoti :]
 
-Feel free to raise an issue or submit a pull request!
-
+---
