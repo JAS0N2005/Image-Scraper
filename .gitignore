@@ -1,0 +1,77 @@
+# ------------------
+# Python
+# ------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy, Pyre
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ------------------
+# VS Code
+# ------------------
+.vscode/
+.history/
+
+# ------------------
+# Windows System
+# ------------------
+desktop.ini
+Thumbs.db
+
+# ------------------
+# Logs
+# ------------------
+*.log
+
+# ------------------
+# IDEs
+# ------------------
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ------------------
+# Misc
+# ------------------
+*.db
+*.sqlite3
+*.env.local

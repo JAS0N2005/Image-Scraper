@@ -1,0 +1,11 @@
+pandas
+playwright
+openpyxl
+aiohttp
+pillow
+cairosvg
+pytesseract
+scikit-image
+portalocker
+opencv-python-headless
+tensorflow  # Only if using ML backend for logo detection

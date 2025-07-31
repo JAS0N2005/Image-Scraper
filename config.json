@@ -1,0 +1,16 @@
+{
+    "INPUT_EXCEL": "G:\\My Drive\\HireThen\\Internal - Flyberg Content\\Location Scrapping Info\\Shreya Dey for photos\\FINAL Bochnia.xlsx",
+    "DATA_LOG_CSV": "G:\\My Drive\\Python - Subhojyoti\\WORK-IN-PROGRESS (PRIORITY BOTS)\\Image Scaper (WIth filter) 2.0\\Logs\\log.csv",
+    "LOG_FILE": "H:\\My Drive\\Python - Subhojyoti\\WORK-IN-PROGRESS (PRIORITY BOTS)\\Image Scaper (WIth filter) 2.0\\Logs\\logfile.log",
+    "OUTPUT_FOLDER": "G:\\My Drive\\HireThen\\Internal - Flyberg Content\\POI BreakOut Pictures\\Bochnia",
+    "IMAGES_PER_SITE": 10,
+    "MIN_IMG_SIZE": 250,
+    "DETECTION_MODE": "Flag",
+    "LOGO_DETECTION_BACKEND": "opencv",
+    "LOGO_MODEL_PATH": "",
+    "HEADLESS": false,
+    "MAX_RETRIES": 2,
+    "RETRY_BACKOFF": 2,
+    "DOWNLOAD_CONCURRENCY": 10,
+    "NEXT_ROW": 1
+}
